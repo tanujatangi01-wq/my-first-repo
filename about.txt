@@ -1,0 +1,7 @@
+Name: Tanuja Tangi
+Course: B.Sc Computer Science
+
+What I learned about GitHub:
+GitHub is a platform used to store and manage code using Git.
+It helps developers collaborate , track changes, and work on projects together.
+I learned how to create repositories, upload files, commit changes, and share project links.
